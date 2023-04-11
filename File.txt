@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-git demo 
-=======
 git demo
 done demo
->>>>>>> parent of 7c97e20... go 3rd commit
